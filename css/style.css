@@ -9,7 +9,6 @@
     --vb-danger: #dc3545;
 }
 
-/* Navbar Styling */
 .navbar-dark {
     background-color: var(--vb-dark) !important;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -29,7 +28,6 @@
     color: var(--vb-primary) !important;
 }
 
-/* Enhanced Breadcrumb Styling */
 .breadcrumb-container {
     background-color: var(--vb-light-gray);
     border-bottom: 2px solid var(--vb-border);
@@ -73,7 +71,6 @@
     font-weight: 600;
 }
 
-/* Hero Section */
 .hero-section {
     background: linear-gradient(135deg, var(--vb-dark) 0%, #2c3e50 100%);
     color: white;
@@ -92,7 +89,6 @@
     opacity: 0.9;
 }
 
-/* Custom button styles */
 .btn {
     font-weight: 600;
     transition: all 0.3s ease;
@@ -111,7 +107,6 @@
     transform: translateY(-2px);
 }
 
-/* Card enhancements */
 .card {
     transition: all 0.3s ease;
     border: none;
@@ -133,18 +128,15 @@
     color: var(--vb-secondary);
 }
 
-/* Progress bar custom colors */
 .progress-bar {
     background-color: var(--vb-primary);
 }
 
-/* Form styling */
 .form-control:focus {
     border-color: var(--vb-primary);
     box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
 
-/* Table styling */
 .table-custom {
     background-color: white;
 }
@@ -155,19 +147,15 @@
     border: none;
 }
 
-/* Alert customization */
 .alert-custom {
     border: none;
     border-left: 4px solid var(--vb-primary);
 }
 
-/* Spinner customization */
 .spinner-custom {
     color: var(--vb-primary);
 }
 
-/* Section spacing */
 .section-padding {
     padding: 60px 0;
 }
-

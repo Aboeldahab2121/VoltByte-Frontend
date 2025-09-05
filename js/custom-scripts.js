@@ -1,4 +1,3 @@
-// Form submission with spinner
 document.querySelector('form').addEventListener('submit', function (e) {
     e.preventDefault();
     const spinner = this.querySelector('.spinner-border');
